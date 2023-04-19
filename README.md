@@ -1,4 +1,4 @@
-![Data Science](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
+![Data Science](https://camo.githubusercontent.com/f6ceef6182b0f307f57a53dce6d6f1e5821019109609bbcdf4b776e912949503/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966)
 # Hi there 👋, I'm Dipta Banik
 ### Data Science
 
